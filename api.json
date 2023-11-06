@@ -1,3 +1,14 @@
 {
-    "data": "OK"
+   "apps": [
+      {
+         "name": "aerotel",
+         "valid": true,
+         "message": "OK"
+      },
+      {
+         "name": "otra",
+         "valid": false,
+         "message": "contactar al equipo de soporte"
+      }
+   ]
 }
